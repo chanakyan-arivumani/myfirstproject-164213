@@ -3,4 +3,4 @@ api_version: 1
 threadsafe: False
 handlers:
 -  url: '/.*'
-   script: main.app
+   script: app
